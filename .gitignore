@@ -1,2 +1,5 @@
 # ignore files
-.env.local
+.env*
+/.env.production.local
+*.js
+
