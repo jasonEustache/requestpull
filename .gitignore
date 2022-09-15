@@ -2,4 +2,4 @@
 .env*
 /.env.production.local
 *.js
-
+*.css
